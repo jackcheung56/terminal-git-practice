@@ -6,3 +6,4 @@ touch solutions.md
 git add solutions.md
 git commit -m "add solutions file to save my commands"
 code solutions.md
+mkdir ~/ga
